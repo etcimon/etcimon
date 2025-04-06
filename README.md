@@ -7,7 +7,7 @@ I'm a software developer and inventor passionate about creating efficient and ro
 - **Total Stars:** 308
 - **Total Forks:** 76
 - **Total Repositories:** 4
-- **Total Lines of Code:** 10,000+
+- **Total Lines of Code:** 1,000,000+
 
 ## Notable Projects
 
