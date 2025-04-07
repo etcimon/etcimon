@@ -91,6 +91,7 @@ I also have a new hobby AI Mobile WebAssembly App project in the works using nod
 [![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)](https://cmake.org/)
 [![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=white)](https://chocolatey.org/)
 [![Joomla](https://img.shields.io/badge/Joomla-5091CD?logo=joomla&logoColor=white)](https://www.joomla.org/)
+[![Shopify](https://img.shields.io/badge/Shopify-96BF48?logo=shopify&logoColor=white)](https://www.shopify.com/)
 [![Magento](https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=white)](https://magento.com/)
 [![Odoo ERP](https://img.shields.io/badge/Odoo-875A7B?logo=odoo&logoColor=white)](https://www.odoo.com/)
 [![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?logo=intuit&logoColor=white)](https://quickbooks.intuit.com/)
