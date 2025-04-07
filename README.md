@@ -24,6 +24,12 @@ Here are some of the repositories I've authored:
 
 I also have a new hobby AI Mobile WebAssembly App project in the works using nodejs/typescript & libwasm & vibe.0 at [slideshow3dai](https://github.com/etcimon/slideshow3dai).
 
+## Certifications
+<p float="left">
+  <img src="/bigcommerce-badge.png" height="150" />
+  <a href="http://verify.skilljar.com/c/djtafxvtysmu"><img src="/celigo-cert.png" height="150" /></a>
+</p>
+
 ## Languages and Frameworks
 
 I work with the following languages and frameworks:
