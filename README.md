@@ -112,6 +112,11 @@ I also have a new hobby AI Mobile WebAssembly App project in the works using nod
 [![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)](https://developer.apple.com/ios/)
 [![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/vs/)
+[![Radicale](https://img.shields.io/badge/Radicale-555555?logo=calendar&logoColor=white)](https://radicale.org/)
+[![Postfix](https://img.shields.io/badge/Postfix-EA4335?logo=gmail&logoColor=white)](http://www.postfix.org/)
+[![Dovecot](https://img.shields.io/badge/Dovecot-2C3E50?logo=maildotru&logoColor=white)](https://www.dovecot.org/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white)](https://www.kali.org/)
+
 
 
 ## Contributions and Collaborations
