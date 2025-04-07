@@ -1,6 +1,6 @@
 # Hi there, I'm Etienne! 👋
 
-I'm a software developer and inventor passionate about creating efficient and robust software solutions. My work primarily revolves around system-level programming, asynchronous operations, and cryptographic implementations, with a strong emphasis on the D programming language. I run [globecsys](https://globecsys.com) when I'm not coding as a hobby.
+I'm a software developer and inventor passionate about creating efficient and robust software solutions. I have an engineering degree and my work primarily revolves around system-level programming, asynchronous operations, and cryptographic implementations, with a strong emphasis on the D programming language. I run [globecsys](https://globecsys.com) when I'm not coding as a hobby.
 
 ## GitHub Code-Author Statistics
 
