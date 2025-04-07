@@ -27,6 +27,7 @@ I also have a new hobby AI Mobile WebAssembly App project in the works using nod
 ## Certifications
 <p float="left">
   <img src="/bigcommerce-badge.png" height="150" />
+  <img src="/bigcommerce-partner-badge.png" height="150" />
   <a href="http://verify.skilljar.com/c/djtafxvtysmu"><img src="/celigo-cert.png" height="150" /></a>
 </p>
 
@@ -79,6 +80,38 @@ I also have a new hobby AI Mobile WebAssembly App project in the works using nod
 [![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?logo=openssl&logoColor=white)](https://www.openssl.org/)
 [![Blitz.js](https://img.shields.io/badge/Blitz.js-5A67D8?logo=blitz&logoColor=white)](https://blitz-js.com/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white)](https://yarnpkg.com/)
+[![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)](https://www.json.org/)
+[![YAML](https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white)](https://yaml.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Dub](https://img.shields.io/badge/Dub-2C3E50?logo=dlang&logoColor=white)](https://code.dlang.org/)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)](https://isocpp.org/)
+[![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)](https://cmake.org/)
+[![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=white)](https://chocolatey.org/)
+[![Joomla](https://img.shields.io/badge/Joomla-5091CD?logo=joomla&logoColor=white)](https://www.joomla.org/)
+[![Magento](https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=white)](https://magento.com/)
+[![Odoo ERP](https://img.shields.io/badge/Odoo-875A7B?logo=odoo&logoColor=white)](https://www.odoo.com/)
+[![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?logo=intuit&logoColor=white)](https://quickbooks.intuit.com/)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/)
+[![Authorize.Net](https://img.shields.io/badge/Authorize.Net-00005A?logo=visa&logoColor=white)](https://www.authorize.net/)
+[![Moneris](https://img.shields.io/badge/Moneris-00806C?logo=moneris&logoColor=white)](https://www.moneris.com/)
+[![Windows SDK](https://img.shields.io/badge/Windows_SDK-0078D7?logo=windows&logoColor=white)](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](https://www.postman.com/)
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://telegram.org/)
+[![Matrix](https://img.shields.io/badge/Matrix-000000?logo=matrix&logoColor=white)](https://matrix.org/)
+[![IDA Pro](https://img.shields.io/badge/IDA_Pro-888888?logo=data&logoColor=white)](https://hex-rays.com/ida-pro/)
+[![GDB](https://img.shields.io/badge/GDB-000000?logo=gnu&logoColor=white)](https://www.gnu.org/software/gdb/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](https://www.wireshark.org/)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com/)
+[![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white)](https://developer.apple.com/ios/)
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/vs/)
+
 
 ## Contributions and Collaborations
 
