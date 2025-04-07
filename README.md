@@ -105,6 +105,7 @@ I also have a new hobby AI Mobile WebAssembly App project in the works using nod
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://slack.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://telegram.org/)
 [![Matrix](https://img.shields.io/badge/Matrix-000000?logo=matrix&logoColor=white)](https://matrix.org/)
+[![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?logo=mailchimp&logoColor=000000)](https://mailchimp.com/)
 [![IDA Pro](https://img.shields.io/badge/IDA_Pro-888888?logo=data&logoColor=white)](https://hex-rays.com/ida-pro/)
 [![GDB](https://img.shields.io/badge/GDB-000000?logo=gnu&logoColor=white)](https://www.gnu.org/software/gdb/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](https://www.wireshark.org/)
