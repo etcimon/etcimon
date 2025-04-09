@@ -51,7 +51,7 @@ I also have a new hobby AI Mobile WebAssembly App project in the works using nod
 [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)](https://nginx.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white)](https://getfedora.org/)
-[![ComfyUI](https://img.shields.io/badge/ComfyUI-FE7B72?logo=appveyor&logoColor=white)](https://comfyui.org/)
+[![ComfyUI](https://img.shields.io/badge/ComfyUI-FE7B72?logo=appveyor&logoColor=white)](https://comfy.org/)
 [![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)](https://openai.com/api/)
 [![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-000000?logo=stability.ai&logoColor=white)](https://stability.ai/)
 [![DreamBooth](https://img.shields.io/badge/DreamBooth-FFB900?logo=google&logoColor=white)](https://dreambooth.github.io/)
